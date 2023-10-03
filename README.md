@@ -24,7 +24,7 @@
 
 <p align="center">
     <img title="Postman" src="https://img.shields.io/badge/-Postman-ffc933%3Flogo%3Dpostman%26style">
-    <img title="REST API" src="https://img.shields.io/badge/-Java-7e06ff?logo=java&style=for-the-badge">
+    <img title="REST API" src="https://img.shields.io/badge/-REST%20API-ffc933%3F">
     <img title="HTML / CSS" src="https://img.shields.io/badge/-SELENIUM-ffc933?logo=selenium&style=for-the-badge">
     <img title="Git" src="https://img.shields.io/badge/-TestNG-ffc933?logo=testNG&style=for-the-badge">
     <img title="Java" src="https://img.shields.io/badge/-GitHub-7e06ff?logo=github&style=for-the-badge">
