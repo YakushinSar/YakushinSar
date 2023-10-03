@@ -14,7 +14,6 @@
 
 <p align="center">
     <a href="https://github.com/YakushinSar/Diplom_YandexPracticum"><img width=45% title="HTML-portfolio" src="attachments/images/portfolio.jpg"></a>
-    <a href="https://github.com/IvanPlotnikovQA/CV/blob/main/Plotnikov_Ivan_QA_Resume.pdf"><img width=45% title="CV" src="attachments/images/CV.png"></a>
 </p>
 
 <p align="right">
