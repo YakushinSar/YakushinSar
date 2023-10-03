@@ -23,7 +23,7 @@
 ## <img width="4%" title="Навыки" src="attachments/images/tools.png"> 
 
 <p align="center">
-    <img title="Postman" src="https://img.shields.io/badge/-IntelliJ%20IDEA-ffc933?style=for-the-badge">
+    <img title="Postman" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Postman">
     <img title="REST API" src="https://img.shields.io/badge/-Java-7e06ff?logo=java&style=for-the-badge">
     <img title="HTML / CSS" src="https://img.shields.io/badge/-SELENIUM-ffc933?logo=selenium&style=for-the-badge">
     <img title="Git" src="https://img.shields.io/badge/-TestNG-ffc933?logo=testNG&style=for-the-badge">
