@@ -20,14 +20,14 @@
     <a href="https://github.com/YakushinSar?tab=repositories"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Все%20репозитории-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
 </p>
 
-## <img width="4%" title="Навыки" src="attachments/images/tools.png"> 
+## <img width="4%" title="Навыки" src="attachments/images/tools.png">Навыки
 
 <p align="center">
     <img title="Postman " src="https://img.shields.io/badge/-Postman-ffc933%3Flogo%3Dpostman%26style">
     <img title="REST API" src="https://img.shields.io/badge/-REST%20API-ffc933%3F">
     <img title="HTML / CSS" src="https://img.shields.io/badge/-HTML%20%2F%20CSS-ffc933%3F">
-    <img title="Git" src="https://img.shields.io/badge/-TestNG-ffc933?logo=testNG&style=for-the-badge">
-    <img title="Java" src="https://img.shields.io/badge/-GitHub-7e06ff?logo=github&style=for-the-badge">
+    <img title="Git" src="https://img.shields.io/badge/-Git-ffc933%3F">
+    <img title="Java" src="https://img.shields.io/badge/-Java-ffc933%3F">
     <img title="Selenium" src="https://img.shields.io/badge/-Jenkins-ffc933?logo=jenkins&style=for-the-badge">
     <img title="TestNG" src="https://img.shields.io/badge/-Slack-ffc933?logo=slack&style=for-the-badge">
     <img title="Базы данных" src="https://img.shields.io/badge/-Telegram-7e06ff?logo=telegram&style=for-the-badge">
