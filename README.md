@@ -51,7 +51,7 @@
 <br/>
 
 <p align="center">
-    <img title="Have a good day :)" src="https://readme-typing-svg.herokuapp.com/?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=Спасибо+One+Love+|+%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F+:)">
+    <img title="Have a good day :)" src="https://readme-typing-svg.herokuapp.com/?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=Спасибо+за+внимание+|+%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F+:)">
 </p>
 
 <p align="center">
