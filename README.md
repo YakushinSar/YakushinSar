@@ -31,11 +31,11 @@
     <img title="Selenium" src="https://img.shields.io/badge/-Selenium-ffc933%3F">
     <img title="TestNG" src="https://img.shields.io/badge/-TestNG-ffc933%3F">
     <img title="Базы данных" src="https://img.shields.io/badge/-%D0%91%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-ffc939%3F">
-    <img title="SQL" src="https://img.shields.io/badge/-Jira-ffc933?logo=jira&style=for-the-badge">
-    <img title="Chrome DevTools" src="https://img.shields.io/badge/-YouTrack-ffc933?logo=jira&style=for-the-badge">
-    <img title="YouTrack" src="https://img.shields.io/badge/-Confluence-ffc933?logo=jira&style=for-the-badge">
-    <img title="Charles" src="https://img.shields.io/badge/-Postman-ffc933?logo=jira&style=for-the-badge">
-    <img title="Тестирование ПО" src="https://img.shields.io/badge/-SQL-ffc933?logo=jira&style=for-the-badge">  
+    <img title="SQL" src="https://img.shields.io/badge/-SQL-ffc933%3F">
+    <img title="Chrome DevTools" src="https://img.shields.io/badge/-DevTools-ffc933%3F">
+    <img title="YouTrack" src="https://img.shields.io/badge/-YouTrack-ffc933%3F">
+    <img title="Charles" src="https://img.shields.io/badge/-Charles-ffc933%3F">
+    <img title="Тестирование ПО" src="https://img.shields.io/badge/-%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%9E-ffc933%3F">  
 </p>
 
 <br/>
