@@ -13,7 +13,7 @@
 ## <img width="4%" title="My portfolio" src="attachments/images/browser.png"> Мои проекты
 
 <p align="center">
-    <a href="https://github.com/YakushinSar/Diplom_YandexPracticum"><img width=45% title="HTML-portfolio" src="attachments/images/portfolio.jpg"></a>
+    <a href="https://github.com/YakushinSar/Diplom_YandexPracticum"><img width=45% title="Проект Яндекс Практикум" src="attachments/images/portfolio.jpg"></a>
 </p>
 
 <p align="right">
