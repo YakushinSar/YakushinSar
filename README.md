@@ -20,7 +20,7 @@
     <a href="https://github.com/IvanPlotnikovQA?tab=repositories"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Все%20репозитории-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
 </p>
 
-## <img width="4%" title="Technology stack" src="attachments/images/tools.png"> Стек технологий
+## <img width="4%" title="Навыки" src="attachments/images/tools.png"> 
 
 <p align="center">
     <img title="Postman" src="https://img.shields.io/badge/-IntelliJ%20IDEA-ffc933?style=for-the-badge">
