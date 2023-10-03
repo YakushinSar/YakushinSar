@@ -10,7 +10,7 @@
 
 <br/>
 
-## <img width="4%" title="Мои проекты" src="attachments/images/browser.png"> 
+## <img width="4%" title="Мои проекты" src="attachments/images/browser.png">Мои проекты
 
 <p align="center">
     <a href="https://github.com/YakushinSar/Diplom_YandexPracticum"><img width=45% title="Проект Яндекс Практикум" src="attachments/images/portfolio.jpg"></a>
