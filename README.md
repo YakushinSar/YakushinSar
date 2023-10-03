@@ -20,7 +20,7 @@
     <a href="https://github.com/IvanPlotnikovQA?tab=repositories"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Все%20репозитории-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
 </p>
 
-## <img width="4%" title="Навыки" src="attachments/images/tools.png"> 
+## <img width="24%" title="Навыки" src="attachments/images/tools.png"> 
 
 <p align="center">
     <img title="Postman" src="https://img.shields.io/badge/-Postman-ffc933%3Flogo%3Dpostman%26style">
