@@ -28,9 +28,9 @@
     <img title="HTML / CSS" src="https://img.shields.io/badge/-HTML%20%2F%20CSS-ffc933%3F">
     <img title="Git" src="https://img.shields.io/badge/-Git-ffc933%3F">
     <img title="Java" src="https://img.shields.io/badge/-Java-ffc933%3F">
-    <img title="Selenium" src="https://img.shields.io/badge/-Jenkins-ffc933?logo=jenkins&style=for-the-badge">
-    <img title="TestNG" src="https://img.shields.io/badge/-Slack-ffc933?logo=slack&style=for-the-badge">
-    <img title="Базы данных" src="https://img.shields.io/badge/-Telegram-7e06ff?logo=telegram&style=for-the-badge">
+    <img title="Selenium" src="https://img.shields.io/badge/-Selenium-ffc933%3F">
+    <img title="TestNG" src="https://img.shields.io/badge/-TestNG-ffc933%3F">
+    <img title="Базы данных" src="https://img.shields.io/badge/-%D0%91%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-ffc939%3F">
     <img title="SQL" src="https://img.shields.io/badge/-Jira-ffc933?logo=jira&style=for-the-badge">
     <img title="Chrome DevTools" src="https://img.shields.io/badge/-YouTrack-ffc933?logo=jira&style=for-the-badge">
     <img title="YouTrack" src="https://img.shields.io/badge/-Confluence-ffc933?logo=jira&style=for-the-badge">
