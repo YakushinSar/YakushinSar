@@ -1,4 +1,4 @@
-# <img width="5%" title="Немного о себе" src="attachments/images/chat.png">
+# <img width="5%" title="Немного о себе" src="attachments/images/chat.png">Немного о себе
 
 <img align="right" width="35%" src="attachments/gif/animation.gif">
 
