@@ -1,3 +1,7 @@
+<p align="center">
+    <img title="Привет!">
+</p>
+
 # <img width="5%" title="About me" src="attachments/images/chat.png">Немного о себе
 
 <img align="right" width="35%" src="attachments/gif/animation.gif">
