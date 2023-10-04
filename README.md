@@ -10,17 +10,6 @@
 
 <br/>
 
-## <img width="4%" title="My portfolio" src="attachments/images/browser.png">Мои проекты
-
-<p align="center">
-    <a href="https://ivanplotnikovqa.github.io/HTML-portfolio/"><img width=45% title="HTML-portfolio" src="attachments/images/portfolio.jpg"></a>
-    <a href="https://https://github.com/YakushinSar/Diplom_YandexPracticum"><img width=45% title="CV" src="attachments/images/CV.png"></a>
-</p>
-
-<p align="right">
-    <a href="https://https://https://github.com/YakushinSar?tab=repositories"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Все%20репозитории-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
-</p>
-
 ## <img width="4%" title="Technology stack" src="attachments/images/tools.png">Навыки
 
 <p align="center">
