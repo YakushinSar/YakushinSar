@@ -1,4 +1,4 @@
-# <img width="5%" title="About me" src="attachments/images/chat.png">Немного о себе
+# <img width="5%" title="About me" src="attachments/images/chat.png"> Немного о себе
 
 <img align="right" width="35%" src="attachments/gif/animation.gif">
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-## <img width="4%" title="Technology stack" src="attachments/images/tools.png">Навыки
+## <img width="4%" title="Technology stack" src="attachments/images/tools.png"> Мои навыки
 
 <p align="center">
     <img title="Postman " src="https://img.shields.io/badge/-Postman-ffc933%3Flogo%3Dpostman%26style">
