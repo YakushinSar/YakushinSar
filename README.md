@@ -10,14 +10,15 @@
 
 <br/>
 
-## <img width="4%" title="Мои проекты" src="attachments/images/browser.png">Мои проекты
+## <img width="4%" title="My portfolio" src="attachments/images/browser.png">Мои проекты
 
 <p align="center">
-    <a href="https://github.com/YakushinSar/Diplom_YandexPracticum"><img width=45% title="Проект Яндекс Практикум" src="attachments/images/portfolio.jpg"></a>
+    <a href="https://ivanplotnikovqa.github.io/HTML-portfolio/"><img width=45% title="HTML-portfolio" src="attachments/images/portfolio.jpg"></a>
+    <a href="https://github.com/IvanPlotnikovQA/CV/blob/main/Plotnikov_Ivan_QA_Resume.pdf"><img width=45% title="CV" src="attachments/images/CV.png"></a>
 </p>
 
 <p align="right">
-    <a href="https://github.com/YakushinSar?tab=repositories"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Все%20репозитории-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
+    <a href="https://github.com/IvanPlotnikovQA?tab=repositories"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Все%20репозитории-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
 </p>
 
 ## <img width="4%" title="Навыки" src="attachments/images/tools.png">Навыки
