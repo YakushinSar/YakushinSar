@@ -18,7 +18,7 @@
 </p>
 
 <p align="right">
-    <a href="https://https://github.com/YakushinSar?tab=repositories"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Все%20репозитории-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
+    <a href="https://https://https://github.com/YakushinSar?tab=repositories"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Все%20репозитории-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
 </p>
 
 ## <img width="4%" title="Technology stack" src="attachments/images/tools.png">Навыки
