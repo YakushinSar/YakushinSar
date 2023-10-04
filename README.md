@@ -21,7 +21,7 @@
     <a href="https://github.com/IvanPlotnikovQA?tab=repositories"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Все%20репозитории-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
 </p>
 
-## <img width="4%" title="Навыки" src="attachments/images/tools.png">Навыки
+## <img width="4%" title="Technology stack" src="attachments/images/tools.png">Навыки
 
 <p align="center">
     <img title="Postman " src="https://img.shields.io/badge/-Postman-ffc933%3Flogo%3Dpostman%26style">
@@ -52,7 +52,7 @@
 <br/>
 
 <p align="center">
-    <img title="Have a good day :)" src="https://readme-typing-svg.herokuapp.com/?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=Спасибо+за+внимание+|+%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F+:)">
+    <img title="Have a good day :)" src="https://readme-typing-svg.herokuapp.com/?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=Жду+ваши+предложения+|+%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F+:)">
 </p>
 
 <p align="center">
