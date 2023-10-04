@@ -34,7 +34,7 @@
 
 <p align="center">
     <a href="https://t.me/AndreyYakushinSar"><img width=4% title="Telegram" src="attachments/logo/telegram.png"></a>&nbsp;
-    <a href="https://www.linkedin.com/in/plotnikovqa/"><img width=5% title="LinkedIn" src="attachments/logo/linkedin.png"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/andrey-yakushin-356a72279/"><img width=5% title="LinkedIn" src="attachments/logo/linkedin.png"></a>&nbsp;
     <a href="https://career.habr.com/andreysar164"><img width=5% title="Habr Career" src="attachments/logo/habr.svg"></a>
 </p>
 
