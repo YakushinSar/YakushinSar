@@ -13,7 +13,7 @@
 ## <img width="4%" title="Technology stack" src="attachments/images/tools.png"> Мои навыки
 
 <p align="center">
-    <img title="Postman" src="https://img.shields.io/badge/-Postman-ffc933%3Flogo%3Dpostman%26style">
+    <img title="Postman+" src="https://img.shields.io/badge/-Postman-ffc933%3Flogo%3Dpostman%26style">
     <img title="REST API" src="https://img.shields.io/badge/-REST%20API-ffc933%3F">
     <img title="HTML / CSS" src="https://img.shields.io/badge/-HTML%20%2F%20CSS-ffc933%3F">
     <img title="Git" src="https://img.shields.io/badge/-Git-ffc933%3F">
