@@ -10,16 +10,16 @@
 
 <br/>
 
-## <img width="4%" title="Technology stack" src="attachments/images/tools.png"> Мои навыки
+## <img width="4%" title="Technology stack" src="attachments/images/tools.png"> Postman
 
 <p align="center">
-    <img title="Postman+" src="https://img.shields.io/badge/-Postman-ffc933%3Flogo%3Dpostman%26style">
+    <img title="Postman" src="https://img.shields.io/badge/-Postman-ffc933%3Flogo%3Dpostman%26style">
     <img title="REST API" src="https://img.shields.io/badge/-REST%20API-ffc933%3F">
     <img title="HTML / CSS" src="https://img.shields.io/badge/-HTML%20%2F%20CSS-ffc933%3F">
     <img title="Git" src="https://img.shields.io/badge/-Git-ffc933%3F">
-    <img title="Python" src="https://img.shields.io/badge/-Java-ffc933%3F">
+    <img title="Python" src="https://img.shields.io/badge/-Python-ffc933%3F">
     <img title="Selenium" src="https://img.shields.io/badge/-Selenium-ffc933%3F">
-    <img title="Pytest" src="https://img.shields.io/badge/-TestNG-ffc933%3F">
+    <img title="Pytest" src="https://img.shields.io/badge/-Pytest-ffc933%3F">
     <img title="Базы данных" src="https://img.shields.io/badge/-%D0%91%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-ffc939%3F">
     <img title="SQL" src="https://img.shields.io/badge/-SQL-ffc933%3F">
     <img title="DevTools" src="https://img.shields.io/badge/-DevTools-ffc933%3F">
