@@ -2,7 +2,7 @@
 
 <img align="right" width="35%" src="attachments/gif/animation.gif">
 
-### _Я — инженер по тестированию ПО_ <img width="3%" src="attachments/images/bug.png">
+### _Привет, я Андрей👋 — инженер по тестированию ПО_ <img width="3%" src="attachments/images/bug.png">
 
 <p align="left">
 Не боюсь сталкиваться с новыми для себя технологиями, люблю разбираться в деталях и всегда довожу начатое дело до конца. Стремлюсь к возможности совместной работы и обучения в коллективе. Ищу возможность применить свои знания на проекте и быстро влиться в рабочий процесс.
@@ -10,7 +10,7 @@
 
 <br/>
 
-## <img width="4%" title="Technology stack" src="attachments/images/tools.png"> Postman
+## <img width="4%" title="Technology stack" src="attachments/images/tools.png"> Технологии, с которыми я работаю:
 
 <p align="center">
     <img title="Postman" src="https://img.shields.io/badge/-Postman-ffc933%3Flogo%3Dpostman%26style">
@@ -31,7 +31,7 @@
 
 <br/>
 
-## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
+## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Мои контакты:
 
 <p align="center">
     <a href="https://t.me/AndreyYakushinSar"><img width=4% title="Telegram" src="attachments/logo/telegram.png"></a>&nbsp;
